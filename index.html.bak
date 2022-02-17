@@ -92,7 +92,8 @@
 					<li><a href="https://in.linkedin.com/in/dinno-george-44569513" aria-label="email"><i class="fab fa-linkedin-in fa-lg"></i><br></a></li>
 					<li><a href="mailto:dinno.george@gmail.com" aria-label="email"><i class='fa fa-envelope fa-lg'></i><br></a></li>
 					<li><a href="https://github.com/dinno-george" aria-label="github"><i class='fab fa-github fa-lg'></i><br></a></li>
-					<!-- <li><a href="https://www.facebook.com/dinno.george" aria-label="facebook"><i class='fab fa-facebook fa-lg'></i><br></a></li> -->
+					<!-- <li><a href="https://www.facebook.com/dinno.george"
+						aria-label="facebook"><i class='fab fa-facebook fa-lg'></i><br></a></li> -->
 				</ul>
 			</nav>
 		</div>
